@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Open Source Projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
-
+<!-- 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
@@ -23,7 +23,7 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
@@ -50,28 +50,28 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
-- [Maximize Your Online Presence using this Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM)
-- [Best VS Code Extension for REST API - No More Postman](https://www.youtube.com/watch?v=e0bw0G19oFc)
-- [VS Code: How to Select Huge Divs Easily!](https://www.youtube.com/watch?v=9GCpUR9X6uc)
-- [This VS Code Extension is the BEST 🔥🔥](https://www.youtube.com/watch?v=o-OecCnitL0)
-- [The Pitfalls of Using ChatGPT-3: A Cautionary Tale of Building a To-Do App](https://www.youtube.com/watch?v=Gz0qvqBoA4I)
-YOUTUBE:END
+<!-- - [Maximize Your Online Presence using this Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM) -->
+<!-- - [Best VS Code Extension for REST API - No More Postman](https://www.youtube.com/watch?v=e0bw0G19oFc) -->
+<!-- - [VS Code: How to Select Huge Divs Easily!](https://www.youtube.com/watch?v=9GCpUR9X6uc) -->
+<!-- - [This VS Code Extension is the BEST 🔥🔥](https://www.youtube.com/watch?v=o-OecCnitL0) -->
+<!-- - [The Pitfalls of Using ChatGPT-3: A Cautionary Tale of Building a To-Do App](https://www.youtube.com/watch?v=Gz0qvqBoA4I) -->
+<!-- YOUTUBE:END -->
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 <!-- 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+<!-- - [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a) -->
+<!-- - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo) -->
+<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629) -->
+<!-- - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def) -->
+<!-- - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n) -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) --> -->
